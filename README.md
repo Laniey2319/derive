@@ -27,6 +27,9 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 2. I found this website on Facebook.
 3. It looks very clean, classic, and timeless. It is a simple black and white design with a nice light sans-serif typeface. 
 4. The navigation is common, with a hamburger menu opening into the options. The menu at the top is interactive by having the icons change colours as you go over them. 
+5. There is a list of cards which you can scroll through with the most recent articles. Within each article are link which lead to other articles from that website or others, such as the New York Times.
+6. I think this is a very beautiful website because of it's classic and clean design, it is also very easy to navigate anr very informative. 
+7. I would make the site a little more interactive, perhaps with an action associated with moving over the cards or to have more moving aspects to the page.
 
 ---
 ## Site 3
