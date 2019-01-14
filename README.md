@@ -33,9 +33,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 3
-
-
-
+1. http://www.johngreenbooks.com/
+2. I got to this website from googling John Green.
+3. This is a very well thought out website. It is designed in a very interesting way with the screen being split in half, with a photo and then information on the other side. The colours are only blue and yellow even for the pictures. This gives a unitfied feeling. 
+4. The navigation is common but it does it in a slightly different way, which makes it easy to use and familliar but it still feels new. The main menu is in a hamburger menu but then once pulled out, it takes up half the screen. All of the options change colour as you go over them with helps you know which are links and what isn't.
+5. The main page has links within the frist paragraph and as you roll over them they change colour. Under the movies tab there are all the movies that have come from his books which feature an area where you can watch the trailer. 
+6. This website is kind of funky in it's design as it is a very bright colour palette and a very impactful design. Overall the experience is fun and it really refects the tones of his books. 
+7. I would offset the spliting of the screen so it was off center a little bit, just to make it a bit more interesting to the eye, but overall it's a really good website. 
 
 ---
 ## Site 4
