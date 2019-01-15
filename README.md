@@ -43,14 +43,22 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 4
-
-
-
+1. https://www.glamour.com/?us_site=y
+2. This is from a magazine I like to read.
+3. It has a very sleek black and white design, with a large title and larger picture cards for their main articles. this gives it a classic clean look. 
+4. There is a menu along the top with the different categories of articles, which is further broken down withing those categories. It is simple to navigate and fairly common in design. 
+5. When you roll over the article the title changes colour, and often when you go to a new part of the website then a pop up will come up and can navigate you to another part of the page. 
+6. I really like the clean and classic layout of the site it translates well across seasons and years. It is well designed and easy to navigate. 
+7. I would make some more things interactive or more things moving and maybe bring out more seasonal aspects to the website so it stays current. 
 
 ---
 ## Site 5
-
-
-
+1. https://www.sharpie.com/
+2. I found this site on google, but was inspired by the pens sitting on my desk.
+3. It is set up with a very clean grid design. It has a banner running across the top, with 4 circles to break up the rigid square grid of the rest of page. With an alteraternating shaded sides of the picture going down the page. 
+4. There is the typical menu across the top but then also other sub menus further down the page. 
+5. You can click on the different kinds of markers which then takes you to pages about them and where to buy those markers. Each picture has a link to a article that relates to the pictures. 
+6. It is super colourful and fun website, which I really like because it relates to the markers and how artistic it is. The designers did a very good job of showing the creativity of the markers. 
+7. One thing I would want to change would be make the interactions show the creativity of the rest of the site. The site is very creative but it gets lost within the navigation system. 
 
 ---
